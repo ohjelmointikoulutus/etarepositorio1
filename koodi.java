@@ -5,3 +5,5 @@ UUsi Rivi GitHubissa - Develop branchiin
 Tekoäly 1
 Tekoäly 2
 Tekoäly 3
+  
+Käytetään toteutettua nettiyhteyttä.
