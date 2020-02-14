@@ -11,3 +11,7 @@ Käytetään toteutettua nettiyhteyttä.
 void TulostetaanHeiSuomi() {
   System.out.println("Hei, Suomi!");
 }
+
+void TulostetaanHeiMaailma() {
+   System.out.println("Hei, maailma!");
+}
