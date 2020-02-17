@@ -18,3 +18,4 @@ void TulostetaanHeiMaailma() {
 
 Uusi rivi 4
 Uusi rivi 5
+Uusi rivi 6
