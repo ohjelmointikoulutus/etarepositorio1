@@ -15,3 +15,6 @@ void TulostetaanHeiSuomi() {
 void TulostetaanHeiMaailma() {
    System.out.println("Hei, maailma!");
 }
+
+Rivi10
+Rivi11
